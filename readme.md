@@ -4,10 +4,12 @@ This repository contains solutions and study notes for a Level 2 TypeScript assi
 
 ## File Structure
 
+```
 ├── solutions.ts          # TypeScript solutions for assignment exercises
 ├── type-vs-interface.md  # Blog post comparing `type` vs `interface`
 ├── type-narrowing.md     # Blog post explaining type narrowing in TypeScript
 └── README.md             # This file — repository overview
+```
 
 ## Topics Covered
 
